@@ -1,3 +1,2 @@
-#!/bin/bash
-#The first command helps to print a message
+#/bin/bash
 echo "Hello World"
