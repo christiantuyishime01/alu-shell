@@ -1,2 +1,2 @@
 #!/bin/bash
-#This command helps to print a message/ comment
+#This is my shell, i/o README file I created
