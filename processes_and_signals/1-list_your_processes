@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#This command will work for all individuals, including those who don't have any TTY
+ps auxf
